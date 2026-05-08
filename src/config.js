@@ -1,3 +1,2 @@
-export const API_URL = `http://${window.location.hostname}:${import.meta.env.VITE_API_PORT}/api`;
-
-
+export const API_URL =
+  import.meta.env.VITE_API_BASE_URL || "http://localhost:2000";
