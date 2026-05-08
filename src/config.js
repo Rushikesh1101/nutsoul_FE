@@ -1,2 +1,1 @@
-export const API_URL =
-  "https://nutsoul-1ndb06a8p-rushikesh1101s-projects.vercel.app/api";
+export const API_URL = "https://nutsoul-be.vercel.app/api";
