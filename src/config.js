@@ -1,2 +1,2 @@
 export const API_URL =
-  import.meta.env.VITE_API_BASE_URL || "http://localhost:2000";
+  "https://nutsoul-1ndb06a8p-rushikesh1101s-projects.vercel.app/api";
