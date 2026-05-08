@@ -155,7 +155,7 @@ export default function Home() {
       </section>
 
       {/* Bestsellers */}
-      {bestsellers.length > 0 && (
+      {/* {bestsellers.length > 0 && (
         <section className="max-w-7xl mx-auto px-4 sm:px-6 py-16 md:py-20">
           <div className="text-center mb-10">
             <span className="badge-green mb-2">Customer Favorites</span>
@@ -168,7 +168,7 @@ export default function Home() {
             ))}
           </div>
         </section>
-      )}
+      )} */}
 
       {/* CTA Banner */}
       <section className="relative overflow-hidden py-16 md:py-20">
